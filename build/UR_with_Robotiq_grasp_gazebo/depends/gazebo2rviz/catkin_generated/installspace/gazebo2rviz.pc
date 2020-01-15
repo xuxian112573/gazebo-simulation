@@ -1,0 +1,8 @@
+prefix=/home/xu/Desktop/github_ws/install
+
+Name: gazebo2rviz
+Description: Description of gazebo2rviz
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/xu/Desktop/github_ws/install/lib 
+Requires: rospy pysdf rospkg

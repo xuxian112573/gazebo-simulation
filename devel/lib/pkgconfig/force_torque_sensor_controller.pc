@@ -1,0 +1,8 @@
+prefix=/home/xu/Desktop/github_ws/devel
+
+Name: force_torque_sensor_controller
+Description: Description of force_torque_sensor_controller
+Version: 0.13.3
+Cflags: -I/home/xu/Desktop/github_ws/src/depends/ros_controllers/force_torque_sensor_controller/include
+Libs: -L/home/xu/Desktop/github_ws/devel/lib -lforce_torque_sensor_controller
+Requires: controller_interface geometry_msgs hardware_interface pluginlib realtime_tools roscpp

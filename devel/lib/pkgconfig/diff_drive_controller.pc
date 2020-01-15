@@ -1,0 +1,8 @@
+prefix=/home/xu/Desktop/github_ws/devel
+
+Name: diff_drive_controller
+Description: Description of diff_drive_controller
+Version: 0.13.3
+Cflags: -I/home/xu/Desktop/github_ws/devel/include -I/home/xu/Desktop/github_ws/src/depends/ros_controllers/diff_drive_controller/include
+Libs: -L/home/xu/Desktop/github_ws/devel/lib -ldiff_drive_controller
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/xu/Desktop/github_ws/devel
+
+Name: forward_command_controller
+Description: Description of forward_command_controller
+Version: 0.13.3
+Cflags: -I/home/xu/Desktop/github_ws/src/depends/ros_controllers/forward_command_controller/include
+Libs: -L/home/xu/Desktop/github_ws/devel/lib 
+Requires: controller_interface hardware_interface std_msgs realtime_tools

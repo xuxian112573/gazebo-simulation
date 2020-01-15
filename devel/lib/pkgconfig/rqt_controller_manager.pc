@@ -1,0 +1,8 @@
+prefix=/home/xu/Desktop/github_ws/devel
+
+Name: rqt_controller_manager
+Description: Description of rqt_controller_manager
+Version: 0.13.3
+Cflags: 
+Libs: -L/home/xu/Desktop/github_ws/devel/lib 
+Requires: 

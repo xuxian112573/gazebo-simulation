@@ -1,0 +1,8 @@
+prefix=/home/xu/Desktop/github_ws/devel
+
+Name: opencv_tests
+Description: Description of opencv_tests
+Version: 1.12.8
+Cflags: 
+Libs: -L/home/xu/Desktop/github_ws/devel/lib 
+Requires: 

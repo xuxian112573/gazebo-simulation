@@ -1,0 +1,8 @@
+prefix=/home/xu/Desktop/github_ws/devel
+
+Name: smart_grasping_sandbox_sample
+Description: Description of smart_grasping_sandbox_sample
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/xu/Desktop/github_ws/devel/lib 
+Requires: 
